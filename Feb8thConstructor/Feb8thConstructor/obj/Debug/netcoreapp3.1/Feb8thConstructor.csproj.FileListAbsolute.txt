@@ -1,0 +1,14 @@
+/Users/leslie.yi/Projects/Feb8thConstructor/Feb8thConstructor/bin/Debug/netcoreapp3.1/Feb8thConstructor.deps.json
+/Users/leslie.yi/Projects/Feb8thConstructor/Feb8thConstructor/bin/Debug/netcoreapp3.1/Feb8thConstructor.runtimeconfig.json
+/Users/leslie.yi/Projects/Feb8thConstructor/Feb8thConstructor/bin/Debug/netcoreapp3.1/Feb8thConstructor.runtimeconfig.dev.json
+/Users/leslie.yi/Projects/Feb8thConstructor/Feb8thConstructor/bin/Debug/netcoreapp3.1/Feb8thConstructor.dll
+/Users/leslie.yi/Projects/Feb8thConstructor/Feb8thConstructor/bin/Debug/netcoreapp3.1/Feb8thConstructor.pdb
+/Users/leslie.yi/Projects/Feb8thConstructor/Feb8thConstructor/obj/Debug/netcoreapp3.1/Feb8thConstructor.csproj.AssemblyReference.cache
+/Users/leslie.yi/Projects/Feb8thConstructor/Feb8thConstructor/obj/Debug/netcoreapp3.1/Feb8thConstructor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leslie.yi/Projects/Feb8thConstructor/Feb8thConstructor/obj/Debug/netcoreapp3.1/Feb8thConstructor.AssemblyInfoInputs.cache
+/Users/leslie.yi/Projects/Feb8thConstructor/Feb8thConstructor/obj/Debug/netcoreapp3.1/Feb8thConstructor.AssemblyInfo.cs
+/Users/leslie.yi/Projects/Feb8thConstructor/Feb8thConstructor/obj/Debug/netcoreapp3.1/Feb8thConstructor.csproj.CoreCompileInputs.cache
+/Users/leslie.yi/Projects/Feb8thConstructor/Feb8thConstructor/obj/Debug/netcoreapp3.1/Feb8thConstructor.dll
+/Users/leslie.yi/Projects/Feb8thConstructor/Feb8thConstructor/obj/Debug/netcoreapp3.1/Feb8thConstructor.pdb
+/Users/leslie.yi/Projects/Feb8thConstructor/Feb8thConstructor/obj/Debug/netcoreapp3.1/Feb8thConstructor.genruntimeconfig.cache
+/Users/leslie.yi/Projects/Feb8thConstructor/Feb8thConstructor/bin/Debug/netcoreapp3.1/Feb8thConstructor
