@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{118194F6-CE5E-4702-BA30-81AF584A68D6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Feb8thObjectInitializers/Program.cs">
+    <Files>
+      <File FileName="Feb8thObjectInitializers/Program.cs" Line="14" Column="52" />
+      <File FileName="Feb8thObjectInitializers/Customer.cs" />
+      <File FileName="Feb8thObjectInitializers/Order.cs" Line="7" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Feb8thFields" expanded="True">
+            <Node name="Feb8thFields" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Feb8thFields PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
