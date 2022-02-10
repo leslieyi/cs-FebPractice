@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Feb8thPractice/1.0.0": {
+        "runtime": {
+          "Feb8thPractice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Feb8thPractice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+/Users/leslie.yi/Projects/Feb8thPractice/Feb8thPractice/bin/Debug/netcoreapp3.1/Feb8thPractice.deps.json
+/Users/leslie.yi/Projects/Feb8thPractice/Feb8thPractice/bin/Debug/netcoreapp3.1/Feb8thPractice.runtimeconfig.json
+/Users/leslie.yi/Projects/Feb8thPractice/Feb8thPractice/bin/Debug/netcoreapp3.1/Feb8thPractice.runtimeconfig.dev.json
+/Users/leslie.yi/Projects/Feb8thPractice/Feb8thPractice/bin/Debug/netcoreapp3.1/Feb8thPractice.dll
+/Users/leslie.yi/Projects/Feb8thPractice/Feb8thPractice/bin/Debug/netcoreapp3.1/Feb8thPractice.pdb
+/Users/leslie.yi/Projects/Feb8thPractice/Feb8thPractice/obj/Debug/netcoreapp3.1/Feb8thPractice.csproj.AssemblyReference.cache
+/Users/leslie.yi/Projects/Feb8thPractice/Feb8thPractice/obj/Debug/netcoreapp3.1/Feb8thPractice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leslie.yi/Projects/Feb8thPractice/Feb8thPractice/obj/Debug/netcoreapp3.1/Feb8thPractice.AssemblyInfoInputs.cache
+/Users/leslie.yi/Projects/Feb8thPractice/Feb8thPractice/obj/Debug/netcoreapp3.1/Feb8thPractice.AssemblyInfo.cs
+/Users/leslie.yi/Projects/Feb8thPractice/Feb8thPractice/obj/Debug/netcoreapp3.1/Feb8thPractice.csproj.CoreCompileInputs.cache
+/Users/leslie.yi/Projects/Feb8thPractice/Feb8thPractice/obj/Debug/netcoreapp3.1/Feb8thPractice.dll
+/Users/leslie.yi/Projects/Feb8thPractice/Feb8thPractice/obj/Debug/netcoreapp3.1/Feb8thPractice.pdb
+/Users/leslie.yi/Projects/Feb8thPractice/Feb8thPractice/obj/Debug/netcoreapp3.1/Feb8thPractice.genruntimeconfig.cache

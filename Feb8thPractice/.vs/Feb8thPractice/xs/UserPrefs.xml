@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{6B55FE9C-F57B-4F9D-B3B3-11C8BD9698A0}|Default">
+  <MonoDevelop.Ide.ItemProperties.Feb8thPractice PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Feb8thPractice/Program.cs">
+    <Files>
+      <File FileName="Feb8thPractice/Program.cs" Line="11" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Feb8thPractice" expanded="True">
+            <Node name="Feb8thPractice" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
