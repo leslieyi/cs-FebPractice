@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{8D977345-C3C0-4D6C-B57A-EFF8348C41C4}|Default">
+  <MonoDevelop.Ide.ItemProperties.Feb8thMethods PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Feb8thMethods/Calculator.cs">
+    <Files>
+      <File FileName="Feb8thMethods/Program.cs" Line="29" Column="32" />
+      <File FileName="Feb8thMethods/Calculator.cs" Line="13" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Feb8thMethods" expanded="True">
+            <Node name="Feb8thMethods" expanded="True">
+              <Node name="Calculator.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

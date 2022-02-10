@@ -1,0 +1,14 @@
+/Users/leslie.yi/Projects/Feb8thMethods/Feb8thMethods/bin/Debug/netcoreapp3.1/Feb8thMethods
+/Users/leslie.yi/Projects/Feb8thMethods/Feb8thMethods/bin/Debug/netcoreapp3.1/Feb8thMethods.deps.json
+/Users/leslie.yi/Projects/Feb8thMethods/Feb8thMethods/bin/Debug/netcoreapp3.1/Feb8thMethods.runtimeconfig.json
+/Users/leslie.yi/Projects/Feb8thMethods/Feb8thMethods/bin/Debug/netcoreapp3.1/Feb8thMethods.runtimeconfig.dev.json
+/Users/leslie.yi/Projects/Feb8thMethods/Feb8thMethods/bin/Debug/netcoreapp3.1/Feb8thMethods.dll
+/Users/leslie.yi/Projects/Feb8thMethods/Feb8thMethods/bin/Debug/netcoreapp3.1/Feb8thMethods.pdb
+/Users/leslie.yi/Projects/Feb8thMethods/Feb8thMethods/obj/Debug/netcoreapp3.1/Feb8thMethods.csproj.AssemblyReference.cache
+/Users/leslie.yi/Projects/Feb8thMethods/Feb8thMethods/obj/Debug/netcoreapp3.1/Feb8thMethods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leslie.yi/Projects/Feb8thMethods/Feb8thMethods/obj/Debug/netcoreapp3.1/Feb8thMethods.AssemblyInfoInputs.cache
+/Users/leslie.yi/Projects/Feb8thMethods/Feb8thMethods/obj/Debug/netcoreapp3.1/Feb8thMethods.AssemblyInfo.cs
+/Users/leslie.yi/Projects/Feb8thMethods/Feb8thMethods/obj/Debug/netcoreapp3.1/Feb8thMethods.csproj.CoreCompileInputs.cache
+/Users/leslie.yi/Projects/Feb8thMethods/Feb8thMethods/obj/Debug/netcoreapp3.1/Feb8thMethods.dll
+/Users/leslie.yi/Projects/Feb8thMethods/Feb8thMethods/obj/Debug/netcoreapp3.1/Feb8thMethods.pdb
+/Users/leslie.yi/Projects/Feb8thMethods/Feb8thMethods/obj/Debug/netcoreapp3.1/Feb8thMethods.genruntimeconfig.cache
